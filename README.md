@@ -1,6 +1,24 @@
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+# Hi there 👋, I'm Ilham Saputra
+
+![Profile Banner](https://github.com/Gowangz.png)
+
+---
+
+## About Me
+```js
+const ilham = {
+  name: "Ilham Saputra",
+  education: "Informatics Engineering - UIN Malang",
+  role: "Software Developer & Open-Source Contributor",
+  skills: ["Python", "Shell", "HTML", "CSS", "JavaScript", "Git", "Networking", "VPS Management", "DevOps"],
+  interests: ["Automation", "Cloud Deployment", "Server Management", "Open-Source Projects"],
+  projects: ["weboenderproject", "Routing-VPS-Bot", "izin", "STB-TeleMonitor"],
+  followers: 3,
+  following: 2,
+  contact: {
+    email: "ilhamsaputra@gmail.com",
+    linkedin: "linkedin.com/in/ilhamsaputr4",
+    portfolio: "gowangz.github.io",
+  },
+  hobbies: ["Coding", "Learning New Technologies", "Problem Solving"],
+};
