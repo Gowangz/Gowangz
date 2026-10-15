@@ -47,7 +47,11 @@
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-- Building quietly — new automation experiments will appear here soon.
+- **Pushed commits** in [Gowangz/Routing-VPS-Bot](https://github.com/Gowangz/Routing-VPS-Bot) · 05 Oct 2026
+- **Pushed commits** in [Gowangz/GONKAFARM](https://github.com/Gowangz/GONKAFARM) · 05 Oct 2026
+- **Pushed commits** in [Gowangz/unikey-v2](https://github.com/Gowangz/unikey-v2) · 05 Oct 2026
+- **Pushed commits** in [Gowangz/DigiBot](https://github.com/Gowangz/DigiBot) · 05 Oct 2026
+- **Pushed commits** in [Gowangz/DigiBot](https://github.com/Gowangz/DigiBot) · 05 Oct 2026
 <!--END_SECTION:activity-->
 
 ## What I build
