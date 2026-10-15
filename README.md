@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:24283B&text=Ilham%20Saputra&fontSize=52&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Automation%20%7C%20E-commerce%20Systems%20%7C%20Software%20Development&descSize=18&descAlignY=62&descColor=A9B1D6" alt="Ilham Saputra — Automation and E-commerce Systems" width="100%" /> <p align="center">
+<img src="./gowangz-banner.svg" alt="Ilham Saputra — Automation and E-commerce Systems" width="100%" /> <p align="center">
 <a href="https://github.com/Gowangz">
     <img src="https://komarev.com/ghpvc/?username=Gowangz&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile views" />
   </a>
