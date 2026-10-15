@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gowangz — Ilham Saputra</title>
+  <desc id="desc">Personal GitHub profile banner for Ilham Saputra, focused on automation, e-commerce systems, and software development.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="58%" stop-color="#151B2B" />
+      <stop offset="100%" stop-color="#24283B" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7AA2F7" stop-opacity="0" />
+      <stop offset="50%" stop-color="#7AA2F7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#BB9AF7" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7AA2F7" />
+      <stop offset="100%" stop-color="#BB9AF7" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7AA2F7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7AA2F7" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#7AA2F7" stroke-opacity="0.07" stroke-width="1" />
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+    <filter id="smallGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="24" fill="url(#bg)" />
+  <rect width="1200" height="300" rx="24" fill="url(#grid)" />
+  <ellipse cx="940" cy="145" rx="300" ry="230" fill="url(#halo)" />
+
+  <!-- ambient lines -->
+  <path d="M0 238 C230 178 310 278 500 222 S820 145 1200 198" fill="none" stroke="url(#glow)" stroke-width="2" opacity="0.55" />
+  <path d="M0 252 C230 192 330 290 530 236 S850 170 1200 214" fill="none" stroke="#BB9AF7" stroke-opacity="0.12" stroke-width="1" />
+  <circle cx="1070" cy="54" r="4" fill="#F7768E" filter="url(#smallGlow)" />
+  <circle cx="1120" cy="88" r="2" fill="#7AA2F7" />
+  <circle cx="1020" cy="238" r="3" fill="#BB9AF7" filter="url(#smallGlow)" />
+
+  <!-- left identity -->
+  <g transform="translate(76 62)">
+    <text x="0" y="20" fill="#A9B1D6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">GOWANGZ / ILHAM SAPUTRA</text>
+    <rect x="0" y="42" width="82" height="4" rx="2" fill="url(#accent)" />
+    <text x="0" y="112" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">Build useful.</text>
+    <text x="0" y="166" fill="#7AA2F7" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">Automate the repetitive.</text>
+    <text x="3" y="209" fill="#A9B1D6" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" letter-spacing="0.3">Automation  ·  E-commerce systems  ·  Software development</text>
+  </g>
+
+  <!-- right automation / commerce motif -->
+  <g transform="translate(925 60)" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="96" cy="92" r="72" fill="#0D1117" fill-opacity="0.55" stroke="#414868" stroke-width="1.5" />
+    <circle cx="96" cy="92" r="50" fill="none" stroke="#7AA2F7" stroke-opacity="0.23" stroke-dasharray="5 8" />
+
+    <!-- workflow nodes -->
+    <path d="M96 42 L96 17 M146 92 L174 92 M96 142 L96 167 M46 92 L18 92" stroke="#7AA2F7" stroke-opacity="0.55" stroke-width="2" />
+    <circle cx="96" cy="17" r="6" fill="#7AA2F7" filter="url(#smallGlow)" />
+    <circle cx="174" cy="92" r="6" fill="#BB9AF7" filter="url(#smallGlow)" />
+    <circle cx="96" cy="167" r="6" fill="#F7768E" filter="url(#smallGlow)" />
+    <circle cx="18" cy="92" r="6" fill="#7AA2F7" filter="url(#smallGlow)" />
+
+    <!-- central gear -->
+    <path d="M96 65 l7 5 9-2 4 8 9 3-2 9 5 7-5 7 2 9-9 3-4 8-9-2-7 5-7-5-9 2-4-8-9-3 2-9-5-7 5-7-2-9 9-3 4-8 9 2z" fill="url(#accent)" opacity="0.95" />
+    <circle cx="96" cy="92" r="16" fill="#151B2B" stroke="#0D1117" stroke-width="4" />
+    <circle cx="96" cy="92" r="5" fill="#FFFFFF" opacity="0.9" />
+
+    <!-- small commerce bag -->
+    <g transform="translate(198 186)">
+      <path d="M0 10 L8 2 H30 L38 10 V40 H0 Z" fill="#BB9AF7" fill-opacity="0.2" stroke="#BB9AF7" stroke-width="2" />
+      <path d="M11 10 C11 -2 27 -2 27 10" fill="none" stroke="#BB9AF7" stroke-width="2" />
+      <path d="M10 22 H28" stroke="#F7768E" stroke-width="2" />
+    </g>
+  </g>
+
+  <!-- footer accent -->
+  <rect x="76" y="264" width="1048" height="1" fill="#414868" />
+  <circle cx="76" cy="264" r="3" fill="#7AA2F7" />
+  <circle cx="1124" cy="264" r="3" fill="#BB9AF7" />
+</svg>
