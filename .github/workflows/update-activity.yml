@@ -1,0 +1,41 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const user = "Gowangz";
+            const start = "<!--START_SECTION:activity-->";
+            const end = "<!--END_SECTION:activity-->";
+            const events = (await github.rest.activity.listPublicEventsForUser({ username: user, per_page: 5 })).data;
+            const lines = events.length
+              ? events.map(x => `- **${x.type.replace("Event", "")}** in [${x.repo.name}](https://github.com/${x.repo.name})`).join("\n")
+              : "- No recent public activity yet.";
+            const file = await github.rest.repos.getContent({ owner: context.repo.owner, repo: context.repo.repo, path: "README.md" });
+            const text = Buffer.from(file.data.content, "base64").toString();
+            const a = text.indexOf(start);
+            const b = text.indexOf(end);
+            if (a < 0 || b < 0) core.setFailed("Activity markers not found");
+            else {
+              const updated = text.slice(0, a) + start + "\n" + lines + "\n" + end + text.slice(b + end.length);
+              if (updated !== text) {
+                await github.rest.repos.createOrUpdateFileContents({
+                  owner: context.repo.owner, repo: context.repo.repo, path: "README.md",
+                  message: "chore: update recent GitHub activity",
+                  content: Buffer.from(updated).toString("base64"), sha: file.data.sha,
+                  branch: context.payload.repository.default_branch
+                });
+              }
+            }
