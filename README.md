@@ -7,6 +7,9 @@
   <a href="https://github.com/Gowangz?tab=followers">
     <img src="https://img.shields.io/github/followers/Gowangz?label=Followers&style=flat-square&color=BB9AF7&labelColor=0D1117" alt="GitHub followers" />
   </a>
+  <a href="https://github.com/Gowangz/Gowangz/actions/workflows/update-activity.yml">
+    <img src="https://github.com/Gowangz/Gowangz/actions/workflows/update-activity.yml/badge.svg" alt="Update GitHub Activity workflow status" />
+  </a>
   <a href="https://github.com/Gowangz/Gowangz">
     <img src="https://img.shields.io/badge/Profile%20README-Tokyo%20Night-7AA2F7?style=flat-square&labelColor=0D1117" alt="Tokyo Night profile README" />
   </a>
@@ -34,10 +37,17 @@
 - Currently learning through projects that turn repetitive business processes into reliable, maintainable tools.
 - Based in **East Java, Indonesia**.
 
+## Currently exploring
+
+- Workflow automation with Python and GitHub Actions
+- API-first e-commerce systems and operational tooling
+- Reliable integrations, observability, and maintainable developer workflows
+- Practical open-source experiments for digital business
+
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-- No recent public activity yet.
+- Building quietly — new automation experiments will appear here soon.
 <!--END_SECTION:activity-->
 
 ## What I build
