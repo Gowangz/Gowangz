@@ -1,107 +1,94 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Ilham%20Saputra&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Learning%20Software%20Development" alt="Header" />
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Gowangz">
-    <img src="https://komarev.com/ghpvc/?username=Gowangz&label=Profile%20views&color=00FFFF&style=flat-square" alt="Gowangz's profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:24283B&text=Ilham%20Saputra&fontSize=52&fontColor=7AA2F7&animation=fadeIn&fontAlignY=38&desc=Automation%20%7C%20E-commerce%20Systems%20%7C%20Software%20Development&descSize=18&descAlignY=62&descColor=A9B1D6" alt="Ilham Saputra — Automation and E-commerce Systems" width="100%" /> <p align="center">
+<a href="https://github.com/Gowangz">
+    <img src="https://komarev.com/ghpvc/?username=Gowangz&label=Profile%20Views&color=7AA2F7&style=flat-square" alt="Profile views" />
   </a>
+  <a href="https://github.com/Gowangz?tab=followers">
+    <img src="https://img.shields.io/github/followers/Gowangz?label=Followers&style=flat-square&color=BB9AF7&labelColor=0D1117" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Gowangz/Gowangz">
+    <img src="https://img.shields.io/badge/Profile%20README-Tokyo%20Night-7AA2F7?style=flat-square&labelColor=0D1117" alt="Tokyo Night profile README" />
+  </a>
+</p> <h1 align="center">Hi, I'm Ilham Saputra</h1>
+<h3 align="center">Tech Enthusiast · Automation Builder · E-commerce Systems Explorer</h3> <p align="center">
+  I build practical software and automation workflows that connect technology with real digital-business operations.
+</p> <p align="center">
+  <a href="https://github.com/Gowangz?tab=repositories">Explore repositories</a>
+  ·
+  <a href="https://www.instagram.com/ilham.sptraa">Instagram</a>
+  ·
+  <a href="mailto:ilhamsaputra2605@gmail.com">Email me</a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47a75-5eff-43a1-b3a9-d345b8531aea.gif" alt="Banner" width="100%" />
+About me
 
-## 📌 About Me
-- E-Commerce Owner & Tech Enthusiast
-- Currently exploring software development, workflow automation, and digital growth systems.
+•
+Informatics Engineering student at UIN Maulana Malik Ibrahim Malang.
+
+•
+E-commerce owner and technology enthusiast focused on workflow automation, API-driven systems, and digital growth.
+
+•
+Currently learning through projects that turn repetitive business processes into reliable, maintainable tools.
+
+•
+Based in East Java, Indonesia.
+
+What I build
+
+Area
+Focus
+Automation
+API integrations, repeatable workflows, retry logic, rate-limit handling, and operational tooling
+E-commerce systems
+Practical systems that support digital operations, experimentation, and scalable workflows
+Software development
+Python-first development with an emphasis on readable code and useful outcomes
+Open source
+Sharing experiments, learning in public, and contributing useful improvements
 
 
-## 📊 GitHub Stats & Trophies
+
+
+Tech stack
+
 <p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,flask,selenium,postgres,mysql,redis,docker,githubactions,linux,git,vscode,postman&theme=dark&perline=8" alt="Python, JavaScript, TypeScript, Node.js, FastAPI, Flask, Selenium, PostgreSQL, MySQL, Redis, Docker, GitHub Actions, Linux, Git, VS Code, and Postman" />
+  </a>
+</p> <p align="center">
+  <img src="https://img.shields.io/badge/Python-Primary%20language-7AA2F7?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python primary language" />
+  <img src="https://img.shields.io/badge/Automation-Core%20interest-BB9AF7?style=flat-square&logo=robot&logoColor=white&labelColor=0D1117" alt="Automation core interest" />
+  <img src="https://img.shields.io/badge/E--commerce-Building%20systems-F7768E?style=flat-square&logo=shopify&logoColor=white&labelColor=0D1117" alt="E-commerce systems" />
+</p>
+
+GitHub activity
+
+<p align="center">
+<a href="https://github.com/Gowangz">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gowangz&show_icons=true&hide_border=true&theme=tokyonight&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6&bg_color=0D1117&rank_icon=github" alt="Gowangz's GitHub statistics" />
+  </a>
   <a href="https://github.com/Gowangz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gowangz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Gowangz's GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowangz&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=7AA2F7&text_color=A9B1D6&bg_color=0D1117" alt="Gowangz's top programming languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gowangz&theme=tokyonight&hide_border=false" alt="Gowangz's GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowangz&theme=tokyonight&radius=10&area=true" alt="Gowangz's Activity Graph" width="100%" />
-</p>
-
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" />
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" />
-</p>
-
-<p align="center">
+</p> <p align="center">
   <a href="https://github.com/Gowangz">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gowangz&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=Gowangz&theme=tokyonight&hide_border=true&background=0D1117&border=414868&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=A9B1D6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9B1D6" alt="Gowangz's GitHub contribution streak" />
   </a>
 </p>
 
-## 🔗 Connect with Me
+Let's connect
+
 <p align="center">
-  <a href="mailto:ilhamsaputra2605@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://github.com/Gowangz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/gowangz">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="mailto:ilhamsaputra2605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-F7768E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Ilham Saputra" />
   </a>
-</p>
+  <a href="https://www.instagram.com/ilham.sptraa">
+    <img src="https://img.shields.io/badge/Instagram-@ilham.sptraa-BB9AF7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram @ilham.sptraa" />
+  </a>
+  <a href="https://github.com/Gowangz">
+    <img src="https://img.shields.io/badge/GitHub-Gowangz-7AA2F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub Gowangz" />
+  </a>
+</p> <p align="center">
+  <i>Build useful things. Automate the repetitive. Keep learning.</i>
+</p> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:24283B,100:0D1117&section=footer" alt="Footer" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
