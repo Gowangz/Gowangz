@@ -76,7 +76,7 @@
 ## 📈 Contribution 3D City & Activity
 
 <p align="center">
-  <img src="./profile-3d-city.svg" alt="3D Contribution City" width="100%" />
+  <img src="./profile-3d-city.svg" alt="3D Contribution City" width="60%" />
 </p>
 
 <p align="center">
