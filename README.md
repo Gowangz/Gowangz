@@ -22,6 +22,12 @@
 <h3 align="center">Backend & Automation Engineer · Network Systems Builder · AI Workflow Explorer</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Role-Backend%20%26%20Automation-7AA2F7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Role" />
+  <img src="https://img.shields.io/badge/Specialty-Network%20%26%20Bots-BB9AF7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117" alt="Specialty" />
+  <img src="https://img.shields.io/badge/Status-Building%20Pipelines-9ECE6A?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117" alt="Status" />
+</p>
+
+<p align="center">
   I design resilient backend automations, network monitoring systems, and intelligent multi-agent pipelines that bridge practical code with real-world digital operations.
 </p>
 
